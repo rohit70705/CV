@@ -1,2 +1,1 @@
-I am rohit70705.
-I am a programmer and a web designer.
+I'm rohit70705. I'm a programmer and a web designer.
